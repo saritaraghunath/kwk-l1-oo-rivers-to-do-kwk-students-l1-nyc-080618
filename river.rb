@@ -20,9 +20,5 @@ class River
     @dry_up
   end 
   
-  
-  
-  
-  
 end 
 
