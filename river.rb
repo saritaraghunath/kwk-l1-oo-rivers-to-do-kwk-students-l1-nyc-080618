@@ -33,6 +33,8 @@ end
 def countries=(new_countries)
 @countries=new_countries
 end
+
+def 
   
 end 
 
