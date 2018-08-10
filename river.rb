@@ -30,8 +30,9 @@ def length
 @length 
 end 
 
-
-
+def countries=(new_countries)
+@countries=new_countries
+end
   
 end 
 
