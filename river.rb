@@ -28,7 +28,15 @@ class River
     @discharge=(new_discharge)
   end
   
-  
+  def length=(new_length)
+@length=new_length
+end 
+
+def length
+@length 
+end 
+
+
   
 end 
 
