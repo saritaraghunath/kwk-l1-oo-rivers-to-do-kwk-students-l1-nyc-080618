@@ -37,9 +37,12 @@ river_two =River.new('The Mississippi')
   puts river_two.name 
 river_three =River.new('The Amazon')
   puts river_three.name 
+  flood
 river_four =River.new('The Seine')
   puts river_four.name 
 river_five =River.new('The Yangtze')
   puts river_five.name 
+  flood
 river_six =River.new('The Euphrates')
   puts river_six.name 
+  dry_up
