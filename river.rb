@@ -24,9 +24,14 @@ end
 
 
 river_one =River.new('The Nile')
-puts 
-river_one =River.new('The Mississippi')
+puts river_one.name 
+river_two =River.new('The Mississippi')
+puts river_one.name 
 river_one =River.new('The Amazon')
+puts river_one.name 
 river_one =River.new('The Seine')
+puts river_one.name 
 river_one =River.new('The Yangtze')
+puts river_one.name 
 river_one =River.new('The Euphrates')
+puts river_one.name 
