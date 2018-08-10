@@ -1,6 +1,6 @@
 # river.rb
 class River 
-  def initialize
+  def initialize(name)
     
   end 
   
@@ -23,3 +23,5 @@ class River
 end 
 
 
+river_one =River.new('The Nile')
+puts 
