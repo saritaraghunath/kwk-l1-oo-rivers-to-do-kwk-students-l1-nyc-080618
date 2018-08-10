@@ -35,7 +35,11 @@ def countries=(new_countries)
 end
 
 def 
-  
+ 
+def discharge=(new_discharge) 
+@discharge=new_discharge
+end 
+
 end 
 
 
