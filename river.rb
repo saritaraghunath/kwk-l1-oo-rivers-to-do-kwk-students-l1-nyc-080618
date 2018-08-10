@@ -28,6 +28,8 @@ class River
     @discharge=(new_discharge)
   end
   
+  
+  
 end 
 
 
