@@ -4,11 +4,11 @@ class River
     
   end 
   
-  def Nile 
-    @Nile
+  def nile 
+    @nile
   end 
 
-  def color=(new_color)
+  def nile=(new_co)
     @color=new_color
   end 
   
