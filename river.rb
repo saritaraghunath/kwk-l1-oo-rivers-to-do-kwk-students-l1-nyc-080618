@@ -25,7 +25,7 @@ end
 
 river_one =River.new('The Nile')
 puts 
-river_one =River.new('The Nile')
+river_one =River.new('The Mississippi')
 river_one =River.new('The Nile')
 river_one =River.new('The Nile')
 river_one =River.new('The Nile')
