@@ -14,11 +14,11 @@ end
   end 
   
 def flood 
-@discharge.to_i*1.3
+@discharge*1.3
 end
 
 def dry_up
-@discharge.to_i*0.5
+@discharge*0.5
 end 
 
   
